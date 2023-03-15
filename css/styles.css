@@ -299,6 +299,8 @@ figure {
 img,
 svg {
   vertical-align: middle;
+}
+.borderTeamImg{
   border: solid black;
 }
 
@@ -4778,7 +4780,7 @@ textarea.form-control-lg {
   display: flex;
   flex-wrap: wrap;
   padding: 0 0;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
   list-style: none;
 }
 
@@ -7298,7 +7300,13 @@ textarea.form-control-lg {
 .my-auto {
   margin-top: auto !important;
   margin-bottom: auto !important;
-  background-color: #aa53be;
+}
+
+.my-services{
+  background-color: rgb(204, 254, 246);
+}
+.my-servicesR{
+  background-color: rgb(255, 229, 162);
 }
 
 .mt-0 {
@@ -11394,4 +11402,12 @@ header.masthead h1, header.masthead .h1 {
 footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
+}
+#logo{
+  width: 45px;
+  height: 45px;
+}
+.containerNomRest{
+  background-color: rgb(219, 152, 103);
+  color: solid #ffff;
 }
