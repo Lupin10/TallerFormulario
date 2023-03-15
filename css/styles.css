@@ -11322,7 +11322,7 @@ header.masthead {
 header.masthead2{
   position: relative;
   background-color: #343a40;
-  background: url("../assets/img/Restaurante.jpg") no-repeat center center;
+  background: url("../assets/img/cafeteria.jpg") no-repeat center center;
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem;
@@ -11406,8 +11406,4 @@ footer.footer {
 #logo{
   width: 45px;
   height: 45px;
-}
-.containerNomRest{
-  background-color: rgb(219, 152, 103);
-  color: solid #ffff;
 }
